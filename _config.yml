@@ -1,8 +1,7 @@
 # Site settings
-title: Klise Theme # site title
+title: Eremita digital # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Bem-vindos ao **Eremita Digital**, o canto escuro e empoeirado da internet onde a lucidez encontra o cinismo, e a sociedade é dissecada com um bisturi afiado de sarcasmo e desdém. Aqui, o protagonista é **O Eremita**, uma entidade que, como o nome sugere, prefere a solidão de sua caverna digital à cacofonia ensurdecedora do mundo lá fora.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,10 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: O Eremita # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    O Eremita é aquele cara que você conhece, mas evita chamar para festas. Ele é o tipo de pessoa que, enquanto você está postando fotos do seu café artesanal no Instagram, está em casa, de pijama, debatendo consigo mesmo sobre a falácia do livre-arbítrio ou rindo sozinho de um meme obscuro sobre a crise existencial do capitalismo tardio. 
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
