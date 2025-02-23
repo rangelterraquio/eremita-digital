@@ -4,8 +4,8 @@ description: >- # site description
   Bem-vindos ao **Eremita Digital**, o canto escuro e empoeirado da internet onde a lucidez encontra o cinismo, e a sociedade é dissecada com um bisturi afiado de sarcasmo e desdém. Aqui, o protagonista é **O Eremita**, uma entidade que, como o nome sugere, prefere a solidão de sua caverna digital à cacofonia ensurdecedora do mundo lá fora.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
