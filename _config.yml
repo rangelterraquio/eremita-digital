@@ -21,8 +21,8 @@ author:
   avatar: /assets/img/profile.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://rangelterraquio.github.io" #
+baseurl: "/eremita-digital"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
