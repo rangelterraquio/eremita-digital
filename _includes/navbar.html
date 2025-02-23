@@ -32,8 +32,11 @@
             {%- endif -%} 
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="{{ site.baseurl }}/">home</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="{{ site.baseurl }}/about">about</a>
+          <!-- Página Home -->
+            <a class="menu-link {% if url == '{{ site.baseurl }}/' %}active{% endif %}" href="{{ site.baseurl }}/">home</a>
+            <!-- Página About -->
+            <a class="menu-link {% if url == '{{ site.baseurl }}/about/' %}active{% endif %}" href="{{ site.baseurl }}/about">about</a>
+
         {%- endif -%}
         <a class="menu-link rss" href="{{ site.baseurl }}/feed.xml">
           <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 512 512" fill="#ED812E">
