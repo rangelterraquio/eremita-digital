@@ -5,14 +5,6 @@ date: 2025-02-12
 categories: reflexões
 ---
 
-Sure, I can!  
-**FUCK YEAH!**  
-It's going to be **LEGEN- wait for it -DARY**.
-
----
-
-## A ilusão da produtividade no mundo moderno
-
 Ah, a produtividade. Essa palavra mágica que todo mundo venera como se fosse a salvação da humanidade. Vamos falar sobre como a sociedade moderna transformou a ideia de "ser produtivo" em uma corrida insana, onde você é julgado pela quantidade de coisas que faz, não pela qualidade ou pelo impacto real que elas têm. E o pior? A maioria das pessoas está tão ocupada tentando parecer produtiva que nem percebe que estão presas em uma roda de hamster, correndo sem sair do lugar.
 
 Primeiro, vamos desconstruir essa obsessão por produtividade. Você já parou para pensar que a maioria das coisas que fazemos no trabalho são completamente inúteis? Reuniões que poderiam ser um e-mail, relatórios que ninguém lê, e-mails que são respondidos com "ok" e depois esquecidos. A gente passa horas fazendo coisas que não agregam valor real, mas como estão dentro do "escopo do trabalho", achamos que estamos sendo produtivos. **Spoiler:** não estamos. Estamos apenas alimentando uma máquina burocrática que existe para justificar sua própria existência.

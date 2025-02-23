@@ -1,6 +1,9 @@
-Sure, I can! Test: FUCK YEAH! It’s going to be LEGEN- wait for it -DARY.
-
-# A Falência da Arte: Por Que Tudo Virou Conteúdo
+---
+layout: post
+title: "A Falência da Arte: Por Que Tudo Virou Conteúdo"
+date: 2025-02-21
+categories: reflexões
+---
 
 Tá, vamos direto ao ponto, porque eu não tenho paciência pra rodeio: a arte tá na UTI, tomando morfina e esperando o plugue ser puxado. Não é nem que ela faliu por conta própria, isso seria dignidade demais pra essa tragédia. A arte foi estrangulada por um mundo capitalista de merda que decidiu que tudo – tudinho mesmo – tem que ser “conteúdo”, essa palavra escrota que fede a algoritmo, cliques e validação barata. E sabe o que é pior? A gente tá aplaudindo enquanto o cadáver esfria, porque somos um bando de otários viciados em dopamine digital.
 

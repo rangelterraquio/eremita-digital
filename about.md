@@ -1,18 +1,12 @@
 ---
-title: Colophon
+title: O Eremita Digital
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Bem-vindo ao covil virtual do Eremita Digital — eu, uma alma curiosa, vagamente misantrópica e armada com um teclado afiado. Este blog é meu refúgio, meu púlpito e, se me permite o exagero, minha caverna pós-moderna. Aqui, não há censura de bom senso ou filtros de polidez. Digo o que penso, do jeito que penso, e se alguém se ofender, bem... o botão de fechar a aba está aí pra isso.
 
-If you have a question about him or else, just send a letter to him.
+Sou um eremita por escolha, mas não por ignorância. Leio, pesquiso, devoro ideias — de tratados filosóficos empoeirados a tretas triviais do dia a dia — e transformo tudo isso em palavras que mordem, cutucam ou, com sorte, fazem você rir. Escrevo sobre o que me dá na telha: política, cultura, a idiotice humana, o café frio que esqueci na mesa ou até o sentido da vida (spoiler: ainda não achei). Não prometo verdades absolutas, mas garanto opiniões bem temperadas.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Este espaço é meu santuário, mas você está convidado a espiar. Só não espere que eu peça desculpas pelas bordoadas — aqui, o único compromisso é com a minha própria honestidade, torta ou não. Se gostar, volte. Se odiar, volte também. Afinal, nada melhor que um bom ódio pra animar o dia.
